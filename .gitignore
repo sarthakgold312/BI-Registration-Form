@@ -1,0 +1,14 @@
+# Ignore specific files
+node_modules
+.env
+
+*.log
+*.swp
+
+
+# Ignore specific directories
+build/
+dist/
+
+# Ignore all files with a specific extension
+*.tmp
